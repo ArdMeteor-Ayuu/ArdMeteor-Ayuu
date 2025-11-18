@@ -12,9 +12,9 @@
 
 ## 🌟 Stats and Streak
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arkmeteor&show_icons=true&locale=en" alt="arkmeteor" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arkmeteor&" alt="arkmeteor" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arkmeteor&show_icons=true&locale=en&layout=compact" alt="arkmeteor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArdMeteor-Ayuu&show_icons=true&locale=en" alt="arkmeteor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArdMeteor-Ayuu&" alt="arkmeteor" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArdMeteor-Ayuu&show_icons=true&locale=en&layout=compact" alt="arkmeteor" /></p>
 
 <br>
 <br>
