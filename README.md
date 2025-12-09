@@ -12,19 +12,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArdMeteor-Ayuu&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArdMeteor-Ayuu&theme=tokyonight" />
-</div>
-
-
-## 🚀 Top Languages
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArdMeteor-Ayuu&layout=compact&theme=tokyonight" />
-</div>
-
-
-
 ## 📌 Current Learning & Projects
 
 🔹 Ethical Hacking & Security Tools  
